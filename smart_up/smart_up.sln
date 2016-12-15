@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smart_up", "smart_up\smart_up.csproj", "{8FD5462B-5C39-45F8-8EF6-241FC4C85EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD5462B-5C39-45F8-8EF6-241FC4C85EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD5462B-5C39-45F8-8EF6-241FC4C85EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD5462B-5C39-45F8-8EF6-241FC4C85EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD5462B-5C39-45F8-8EF6-241FC4C85EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
